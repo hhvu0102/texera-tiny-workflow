@@ -1,5 +1,8 @@
 # Tiny Workflow for Testing Nextflow, Seqera, and Texera
 
+![Workflow overview](pankbase-pipeline.png)
+This workflow include the steps: calculation of per-barcode QC metrics (plus generate some accompanied plots) and a tiny version of filtering for high quality barcodes.
+
 ## Repository Structure
 
 ### 1. `data/`
