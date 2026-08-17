@@ -55,12 +55,12 @@ Contains all analysis scripts and workflow configuration files:
 ### Running the Workflow
 
 Run Nextflow from the `scripts/` directory using a command such as:
-
-~~bash
+```
+## bash
 ~/tools/nextflow run main.nf \
   --samplesheet library-config.json \
   --results ../results/
-~~
+```
 
 ## 3. `results/`
 
