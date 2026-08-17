@@ -1,0 +1,4 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	2e/700a6a	58049362	qc (SAMN16081314_downsampled_1.7k-hg38)	COMPLETED	0	2026-08-17 17:54:56.296	1m 31s	50.5s	59.5%	61.7 MB	196.9 MB	472.6 MB	91.8 KB
+2	6d/1dcfb2	58049361	interactive_barcode_rank_plot (SAMN16081314_downsampled_1.7k-hg38)	COMPLETED	0	2026-08-17 17:54:56.137	2m 37s	1m 54s	2.5%	161.9 MB	391.2 MB	36 MB	3.4 MB
+3	e0/73a925	58049752	plot_qc (SAMN16081314_downsampled_1.7k-hg38)	COMPLETED	0	2026-08-17 17:56:27.852	2m 10s	1m 3s	5.1%	122.8 MB	426.4 MB	25.8 MB	131.7 KB

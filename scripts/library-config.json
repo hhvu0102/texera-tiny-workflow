@@ -1,0 +1,2 @@
+library,genome,bam,matrix,barcodes
+SAMN16081314_downsampled_1.7k,hg38,/nfs/turbo/umms-scjp-pank/vthihong/texera/20260817_tiny-workflow/data/SAMN16081314_downsampled_1.7k.bam,/nfs/turbo/umms-scjp-pank/vthihong/texera/20260817_tiny-workflow/data/SAMN16081314_downsampled_1.7k_matrix.mtx,/nfs/turbo/umms-scjp-pank/vthihong/texera/20260817_tiny-workflow/data/SAMN16081314_downsampled_1.7k_barcodes.tsv

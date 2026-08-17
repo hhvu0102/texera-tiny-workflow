@@ -1,0 +1,3 @@
+2026-08-17 16:40:48	1m 17s	insane_lovelace	ERR	c5d24b75a43cc7fe25e4fccc4b8417ec	6b8f9eaa-993e-45e0-bdf0-25ddc5d35ba4	nextflow run main.nf --samplesheet library-config.json --results ../results/
+2026-08-17 16:44:14	7m 6s	festering_meitner	OK	ff3e7e36c3879be96bb255c31b9ef9f5	840240f9-2176-4476-9f87-f16ad33f3a73	nextflow run main.nf --samplesheet library-config.json --results ../results/
+2026-08-17 17:54:50	3m 49s	sleepy_nobel	OK	ff3e7e36c3879be96bb255c31b9ef9f5	16e71e19-a4db-4c99-a882-9043edc15ad0	nextflow run main.nf --samplesheet library-config.json --results ../results/
